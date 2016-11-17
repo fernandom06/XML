@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE escrutinio SYSTEM "congreso_y_senado.dtd">
+<escrutinio convocatoria="26-06-2016">
+    <num_a_elegir>208</num_a_elegir>
+    <porciento_escrutado>99.65</porciento_escrutado>
+    <total_votos>
+        <contabilizados>
+            <cantidad>23799958</cantidad>
+            <porcentaje>69.03</porcentaje>
+        </contabilizados>
+        <abstenciones>
+            <cantidad>10676844</cantidad>
+            <porcentaje>30.97</porcentaje>
+        </abstenciones>
+        <nulos>
+            <cantidad>603536</cantidad>
+            <porcentaje>2.54</porcentaje>
+        </nulos>
+        <blancos>
+            <cantidad>562688</cantidad>
+            <porcentaje>2.43</porcentaje>
+        </blancos>
+    </total_votos>
+    <resultados>
+        <numero_partidos>48</numero_partidos>
+        <partidos_con_escaños ids="PP PSOE ERC PODEMOS PNV ECP EUPV CDC MAREA ASG CCa" />
+        <partido id="PP">
+            <nombre>Partido Popular</nombre>
+            <escaños>130</escaños>            
+        </partido>
+        <partido id="PSOE">
+            <nombre>Partido Socialista</nombre>
+            <escaños>43</escaños>            
+        </partido>
+        <partido id="ERC">
+            <nombre>ERC-CATSÍ</nombre>
+            <escaños>10</escaños>            
+        </partido>
+        <partido id="PODEMOS">
+            <nombre>PODEMOS-IU-EQUO</nombre>
+            <escaños>8</escaños>            
+        </partido>
+        <partido id="PNV">
+            <nombre>Partido Nacionalista Vasco</nombre>
+            <escaños>5</escaños>            
+        </partido>
+        <partido id="ECP">
+            <nombre>ECP</nombre>
+            <escaños>4</escaños>            
+        </partido>
+        <partido id="EUPV">
+            <nombre>PODEMOS-COMPROMÍS-EUPV</nombre>
+            <escaños>3</escaños>            
+        </partido>
+        <partido id="CDC">
+            <nombre>CDC</nombre>
+            <escaños>2</escaños>            
+        </partido>
+        <partido id="MAREA">
+            <nombre>PODEMOS-EN MAREA-ANOVA-EU</nombre>
+            <escaños>1</escaños>            
+        </partido>
+        <partido id="ASG">
+            <nombre>ASG</nombre>
+            <escaños>1</escaños>            
+        </partido>
+        <partido id="CCa">
+            <nombre>CCa-PNC</nombre>
+            <escaños>1</escaños>            
+        </partido>
+        <partido id="ALCD">
+            <nombre>ALCD</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="ADELANTE">
+            <nombre>BADAJOZ ADELANTE</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="NÓS">
+            <nombre>BNG-NÓS</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="CCD">
+            <nombre>CCD</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="CI">
+            <nombre>CCD-CI</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="MODERADO">
+            <nombre>CENTRO MODERADO</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="CILUS">
+            <nombre>CILUS</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="Cs">
+            <nombre>Ciudadanos</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="EB">
+            <nombre>EB</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="EHBildu">
+            <nombre>EH Bildu</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="ENTABAN">
+            <nombre>ENTABAN</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="FE">
+            <nombre>FE</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="JONS">
+            <nombre>FE de las JONS</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="GBAI">
+            <nombre>GBAI</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="HRTS">
+            <nombre>HRTS-Ln</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="IMC">
+            <nombre>IMC</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="INDEPENDIENTES">
+            <nombre>INDEPENDIENTES-FIA</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="JXC">
+            <nombre>JXC</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="Ln">
+            <nombre>Ln</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="MAS">
+            <nombre>MAS</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="PACMA">
+            <nombre>PACMA</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="PCPE">
+            <nombre>PCPE</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="PFyV">
+            <nombre>PFyV</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="PH">
+            <nombre>PH</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="LIB">
+            <nombre>P-LIB</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="PREPAL">
+            <nombre>PREPAL</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="PxC">
+            <nombre>PxC</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="RECORTES">
+            <nombre>RECORTES CERO-GRUPO VERDE</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="REPO">
+            <nombre>REPO</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="SAIn">
+            <nombre>SAIn</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="SI">
+            <nombre>SI</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="SOMVAL">
+            <nombre>SOMVAL</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="UDT">
+            <nombre>UDT</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="UNIDAD">
+            <nombre>UNIDAD DEL PUEBLO</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="UPL">
+            <nombre>UPL</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="UPyD">
+            <nombre>UPyD</nombre>
+            <escaños>0</escaños>            
+        </partido>
+        <partido id="VOX">
+            <nombre>VOX</nombre>
+            <escaños>0</escaños>            
+        </partido>
+    </resultados>
+</escrutinio>

@@ -1,0 +1,27 @@
+<!ELEMENT escrutinio (num_a_elegir, porciento_escrutado, total_votos, resultados)>
+<!ATTLIST escrutinio tipo (senado|congreso|local|autonomica) "senado"
+                     convocatoria CDATA #REQUIRED>
+    <!ELEMENT num_a_elegir (#PCDATA)>
+    <!ELEMENT porciento_escrutado (#PCDATA)>
+    <!ELEMENT total_votos (contabilizados, abstenciones, nulos, blancos)>
+        <!ELEMENT contabilizados (cantidad, porcentaje)>
+            <!ELEMENT cantidad (#PCDATA)>
+            <!ELEMENT porcentaje (#PCDATA)>
+        <!ELEMENT abstenciones (cantidad, porcentaje)>
+            <!-- Ya estan definidos en el elemento cantidad -->
+        <!ELEMENT nulos (cantidad, porcentaje)>
+            <!-- Ya estan definidos en el elemento cantidad -->
+        <!ELEMENT blancos (cantidad, porcentaje)>
+            <!-- Ya estan definidos en el elemento cantidad -->
+    <!ELEMENT resultados (numero_partidos, partidos_con_escaños, partido+)>
+    <!ATTLIST resultados ganador IDREF #IMPLIED>
+        <!ELEMENT numero_partidos (#PCDATA)>
+        <!ELEMENT partidos_con_escaños EMPTY>
+        <!ATTLIST partidos_con_escaños ids IDREFS #REQUIRED>
+        <!ELEMENT partido (nombre, escaños, votos?)>
+        <!ATTLIST partido id ID #REQUIRED>
+            <!ELEMENT nombre (#PCDATA)>
+            <!ELEMENT escaños (#PCDATA)>
+            <!ELEMENT votos (cantidad, porcentaje)>
+                <!-- Ya estan definidos en el elemento cantidad -->
+

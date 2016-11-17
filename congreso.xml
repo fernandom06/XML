@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE escrutinio SYSTEM "congreso_y_senado.dtd">
+<escrutinio tipo="congreso" convocatoria="26-06-2016">
+    <num_a_elegir>350</num_a_elegir>
+    <porciento_escrutado>100</porciento_escrutado>
+    <total_votos>
+        <contabilizados>
+            <cantidad>24161083</cantidad>
+            <porcentaje>69.84</porcentaje>
+        </contabilizados>
+        <abstenciones>
+            <cantidad>10435955</cantidad>
+            <porcentaje>30.16</porcentaje>
+        </abstenciones>
+        <nulos>
+            <cantidad>225888</cantidad>
+            <porcentaje>0.93</porcentaje>
+        </nulos>
+        <blancos>
+            <cantidad>178521</cantidad>
+            <porcentaje>0.75</porcentaje>
+        </blancos>
+    </total_votos>
+    <resultados ganador="PP">
+        <numero_partidos>48</numero_partidos>
+        <partidos_con_escaños
+                ids="PP PSOE PODEMOS Cs
+                     ERCCATSI CDC PNV EHBildu CCa"/>
+        <partido id="PP">
+            <nombre>Partido Popular</nombre>
+            <escaños>137</escaños>
+            <votos>
+                <cantidad>7906185</cantidad>
+                <porcentaje>33.03</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PSOE">
+            <nombre>Partido Socialista</nombre>
+            <escaños>85</escaños>
+            <votos>
+                <cantidad>5424709</cantidad>
+                <porcentaje>22.66</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PODEMOS">
+            <nombre>Podemos-IU-Equo</nombre>
+            <escaños>71</escaños>
+            <votos>
+                <cantidad>5049734</cantidad>
+                <porcentaje>21.1</porcentaje>
+            </votos>
+        </partido>
+        <partido id="Cs">
+            <nombre>Ciudadanos</nombre>
+            <escaños>32</escaños>
+            <votos>
+                <cantidad>3123769</cantidad>
+                <porcentaje>13.05</porcentaje>
+            </votos>
+        </partido>
+        <partido id="ERCCATSI">
+            <nombre>ERC-CATSÍ</nombre>
+            <escaños>9</escaños>
+            <votos>
+                <cantidad>629294</cantidad>
+                <porcentaje>2.63</porcentaje>
+            </votos>
+        </partido>
+        <partido id="CDC">
+            <nombre>Convergencia Democratica de Cataluña</nombre>
+            <escaños>8</escaños>
+            <votos>
+                <cantidad>481839</cantidad>
+                <porcentaje>2.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PNV">
+            <nombre>Partido Nacionalista Vasco</nombre>
+            <escaños>5</escaños>
+            <votos>
+                <cantidad>286215</cantidad>
+                <porcentaje>1.2</porcentaje>
+            </votos>
+        </partido>
+        <partido id="EHBildu">
+            <nombre>EH Bildu</nombre>
+            <escaños>2</escaños>
+            <votos>
+                <cantidad>184092</cantidad>
+                <porcentaje>0.77</porcentaje>
+            </votos>
+        </partido>
+        <partido id="CCa">
+            <nombre>CCa-PNC</nombre>
+            <escaños>1</escaños>
+            <votos>
+                <cantidad>78080</cantidad>
+                <porcentaje>0.33</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PACMA">
+            <nombre>PACMA</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>284848</cantidad>
+                <porcentaje>1.19</porcentaje>
+            </votos>
+        </partido>
+        <partido id="RECORTES">
+            <nombre>"RECORTES CERO-GRUPO VERDE</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>51742</cantidad>
+                <porcentaje>0.22</porcentaje>
+            </votos>
+        </partido>
+        <partido id="UPyD">
+            <nombre>Unión Progresso y Democracia</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>50282</cantidad>
+                <porcentaje>0.21</porcentaje>
+            </votos>
+        </partido>
+        <partido id="VOX">
+            <nombre>VOX</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>46781</cantidad>
+                <porcentaje>0.2</porcentaje>
+            </votos>
+        </partido>
+        <partido id="BNG">
+            <nombre>BNG-NÓS</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>44902</cantidad>
+                <porcentaje>0.19</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PCPE">
+            <nombre>Partido Comunista de los Pueblos de España</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>26553</cantidad>
+                <porcentaje>0.11</porcentaje>
+            </votos>
+        </partido>
+        <partido id="GBAI">
+            <nombre>Geroa Bai</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>14289</cantidad>
+                <porcentaje>0.06</porcentaje>
+            </votos>
+        </partido>
+        <partido id="EB">
+            <nombre>EB</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>12024</cantidad>
+                <porcentaje>0.05</porcentaje>
+            </votos>
+        </partido>
+        <partido id="FE">
+            <nombre>Falange de las JONS</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>9862</cantidad>
+                <porcentaje>0.04</porcentaje>
+            </votos>
+        </partido>
+        <partido id="SI">
+            <nombre>SI</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>7413</cantidad>
+                <porcentaje>0.03</porcentaje>
+            </votos>
+        </partido>
+        <partido id="SOMVAL">
+            <nombre>SOMVAL</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>6612</cantidad>
+                <porcentaje>0.03</porcentaje>
+            </votos>
+        </partido>
+        <partido id="CCD">
+            <nombre>CCD</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>6264</cantidad>
+                <porcentaje>0.03</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PH">
+            <nombre>Partido Humanista</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>3288</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="SAIn">
+            <nombre>SAIn</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>3221</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="P">
+            <nombre>P-LIB</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>3103</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="CENTRO">
+            <nombre>CENTRO MODERADO</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>2986</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="CCDCI">
+            <nombre>CCD-CI</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>2668</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="UPL">
+            <nombre>Unión del Pueblo Leonés</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>2307</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PCOE">
+            <nombre>PPCOE</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>1812</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="AND">
+            <nombre>AND</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>1695</cantidad>
+                <porcentaje>0.01</porcentaje>
+            </votos>
+        </partido>
+        <partido id="JXC">
+            <nombre>JxC</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>1184</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="IZAR">
+            <nombre>IZAR</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>854</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="CILUS">
+            <nombre>CILUS</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>847</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PFyV">
+            <nombre>PFyV</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>838</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PxC">
+            <nombre>PxC</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>722</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="MAS">
+            <nombre>MAS</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>718</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="UNIDAD">
+            <nombre>UNIDAD DEL PUEBLO</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>684</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PREPAL">
+            <nombre>PREPAL</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>640</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="Ln">
+            <nombre>Ln</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>617</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="REPO">
+            <nombre>REPO</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>569</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="INDEPENDIENTES">
+            <nombre>INDEPENDIENTES-FIA</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>556</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="IMC">
+            <nombre>IMC</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>351</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="FME">
+            <nombre>FME</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>338</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="PUEDE">
+            <nombre>PUEDE</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>330</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="ENTABAN">
+            <nombre>ENTABAN</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>257</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="F_E">
+            <nombre>FE</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>254</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="ALCD">
+            <nombre>ALCD</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>210</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="HRTS">
+            <nombre>-Ln</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>82</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+        <partido id="UDT">
+            <nombre>UDT</nombre>
+            <escaños>0</escaños>
+            <votos>
+                <cantidad>54</cantidad>
+                <porcentaje>0</porcentaje>
+            </votos>
+        </partido>
+    </resultados>
+</escrutinio>
